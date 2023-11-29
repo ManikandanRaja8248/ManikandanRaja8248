@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manikandan Raja
 - 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently working as Fullstack developer at Ebm
+- 🌱 I’m currently working as Fullstack developer at ebm-papst
 - 💞️ Tech knows: Angular, NestJs, React, Javascript, Typescript
 - 📫 reach me : 8248556846 or arunmaniaravind@gmail.com
 
